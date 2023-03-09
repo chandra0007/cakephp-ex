@@ -76,6 +76,15 @@
         "annotations": {
           "description": "Keeps track of changes in the application image"
         }
+      },
+      "spec": {
+        "tags": [
+              {
+                  "importPolicy": {
+                     "importMode": "PreserveOriginal"
+                  }
+              }
+          ]
       }
     },
     {
