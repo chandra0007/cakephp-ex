@@ -466,7 +466,7 @@
       "displayName": "MySQL Version",
       "description": "Version of MySQL image to be used (8.0-el8 or latest).",
       "required": true,
-      "value": "8.0-el8"
+      "value": "80:1-243"
     },
     {
       "name": "MEMORY_LIMIT",
